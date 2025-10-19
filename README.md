@@ -5,7 +5,7 @@ To write a C program to read two number and check whether the first number is eq
 ## For example:
 <img width="328" height="97" alt="image" src="https://github.com/user-attachments/assets/8fd9c0bf-d6af-4b87-b3b0-308e6458c85a" />
 
-## Programme:
+## Program:
 ```c
 #include <stdio.h>
 int main()
